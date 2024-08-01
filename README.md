@@ -11,8 +11,8 @@ All the answers will be found in the "data_model" file.
 
 Here are my answers: 
 1. ![Question 1](https://github.com/user-attachments/assets/93153a24-91ea-4c1e-ac3b-4020c1c3bd79)
-
-2.![Question 2](https://github.com/user-attachments/assets/ec265df6-bb19-4fab-8c64-f0a7e422caf4)
+  
+2. ![Question 2](https://github.com/user-attachments/assets/ec265df6-bb19-4fab-8c64-f0a7e422caf4)
 
 3. ![Question 3](https://github.com/user-attachments/assets/12328827-5b80-40d3-8ad6-cbae62720089)
 
